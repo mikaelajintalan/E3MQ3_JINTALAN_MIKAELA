@@ -1,2 +1,2 @@
-#E3MQ3_Jintalan_Mikaela<br/>
+#E3MQ3_Jintalan_Mikaela
 BSCS-32E1
