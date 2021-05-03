@@ -22,7 +22,9 @@ const Navbar = () => {
           </NavLink>
         </NavMenu>
         <NavMenu>
-          <NavLink to='/alert'>Hello mikaela.jintalan@mail.com!</NavLink>
+          <NavLink to='/helloUser' activeStyle>
+            <span>Hello<a style={{ textDecoration: 'none', marginLeft: '.5rem', color: 'inherit'}} href="mailto:mikaela.jintalan@gmail.com">mikaela.jintalan@gmail.com!</a></span>
+          </NavLink>
         </NavMenu>
       </Nav>
     </>
