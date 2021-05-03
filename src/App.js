@@ -6,7 +6,6 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from './pages';
 import About from './pages/about';
 import HelloUser from './pages/helloUser';
-import Footer from './Footer';
 
 function App() {
   return (
@@ -17,9 +16,11 @@ function App() {
         <Route path='/about' component={About} />
         <Route path='/helloUser' component={HelloUser} />
       </Switch>
-    </Router>
+      <footer>
+          &copy; 2021 by Mikaela L. Jintalan BSCS-32E1.
+      </footer>
+    </Router>  
   );
 }
-<Footer />
 
 export default App;

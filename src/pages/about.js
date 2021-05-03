@@ -8,7 +8,7 @@ const About = () => {
                 justifyContent: 'Center',
                 alignItems: 'Center',
                 height: '100%',
-                fontSize: 30,
+                fontSize: 25,
                 marginTop: '100px',
                 lineHeight: 1.5
             }}

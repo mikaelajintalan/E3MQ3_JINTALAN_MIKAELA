@@ -14,3 +14,11 @@ code {
 html {
   background-color: #C9FFE5;
 }
+
+footer{
+  color: silver;
+  height: 10px;
+  display: flex;
+  margin-left: 320px;
+  padding-top: 10%;
+}
